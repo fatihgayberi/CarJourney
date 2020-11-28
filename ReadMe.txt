@@ -1,0 +1,1 @@
+Hi, you can make the car move with the right left arrow keys.

@@ -1,9 +1,3 @@
-'''
-Fatih Gayberi
-18120205014
-Bilgisayar Muhendisligi (3)
-'''
-
 from OpenGL.GL import *
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
